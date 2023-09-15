@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: rgba(0, 255, 85, 0.068);
+}
+
+/* fim da cor de fundo da tela*/
+
+
+
+
+img {
+    margin: 20px;
+    padding: 10px;
+}
+/* fim da margem*/
+
+img {
+    width: 500px;
+    height: auto; 
+}
+/* fim do tamanho da foto*/
+  
+
+  /* Estilo para as tabelas */
+  .tabela {
+    float: center; /* Use 'float' para alinhar as tabelas lado a lado */
+    margin-right: 20px; /* Adicione margem direita para separação entre as tabelas */
+  }
